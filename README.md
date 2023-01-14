@@ -42,13 +42,13 @@ Built with a responsive design - the site opens to hero banner image, featuring 
 <!-- DIRECTORY -->
 ## Directory
 
-### [/root](https://github.com/JAndrew13/)
+### [/root](https://github.com/JAndrew13/TinDog)
 Contains the HTML code for the website landing page
 
-### [/css](https://github.com/JAndrew13/)
+### [/css](https://github.com/JAndrew13/TinDog/tree/main/css)
 Contains all css style properties
 
-### [/images](https://github.com/JAndrew13/)
+### [/images](https://github.com/JAndrew13/TinDog/tree/main/images)
 Contains all image files used on the site
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
