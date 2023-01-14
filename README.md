@@ -6,6 +6,8 @@
  
 The goal of this project was to create a product landing page for a mock startup company using only HTML, CSS, and Bootstrap. The app in question here is TinDog - a dating app for dogs (based on the popular dating app Tinder).
 
+<img src="https://github.com/JAndrew13/TinDog/blob/main/Tindog.jpg" width="500">
+
 Built with a responsive design - the site opens to hero banner image, featuring call-to-action download buttons, an app image, and a few navigation buttons. Continuing down the page are four sections, followed by a page footer for social icons. The sections are laid out as follows..
 
 
