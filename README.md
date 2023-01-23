@@ -10,6 +10,7 @@ The goal of this project was to create a product landing page for a mock startup
 
 Built with a responsive design - the site opens to hero banner image, featuring call-to-action download buttons, an app image, and a few navigation buttons. Continuing down the page are four sections, followed by a page footer for social icons. The sections are laid out as follows..
 
+***Check out the live project [here](https://JAndrew13.github.io/TinDog/)***
 
 `Brand Mission Statements` to convey the app's purpose. These statements are paired with interactive material icons that could be used as links to further reading. 
 
